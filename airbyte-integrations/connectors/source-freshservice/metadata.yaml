@@ -1,10 +1,10 @@
 data:
   allowedHosts:
     hosts:
-      - TODO # Please change to the hostname of the source.
+      - "*.lenteshaytek.com.br"
   registries:
     oss:
-      enabled: false
+      enabled: true
     cloud:
       enabled: false
   connectorSubtype: api
